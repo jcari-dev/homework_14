@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+}
+
+.btnCreateNewList{
+    text-align: center;
+}
+
+.quantityInput{
+
+    width: 3em;
+    
+}
+
+ul{
+    list-style-type: none;
+    padding-left: 0px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+
+.listContainer{
+    margin: 0 auto;
+    border: 1px dotted black;
+    max-width: 400px;
+}
